@@ -1,0 +1,42 @@
+Apktool 命令
+
+apktool d xx.apk a    反编译XX.apk到A文件夹
+
+apktool b  a               从文件夹a重建APK，输出到a\dist\out.apk
+
+然后我们反编译一枚软件玩玩…
+
+AutoMemoryManager的免费版底部有一条广告，去掉它吧。
+
+把com.lim.android.automemman.apk放到同文件夹(我的就是E盘根目录)
+
+Win+R 运行CMD
+
+E:<回车>
+E:\>apktool d com.lim.android.automemman.apk AMM <回车>
+I: Baksmaling…
+I: Decoding resource table…
+I: Decoding resources…
+I: Copying assets and libs…
+
+现在文件被decode到E:\AMM了，打开E:\AMM\res\layout\main.xml看，所有都可见了吧~
+
+编辑第59行
+
+
+
+
+改为
+
+
+
+然后CMD输入
+
+E:\>apktool b AMM
+I: Checking whether sources has changed…
+I: Smaling…
+I: Checking whether resources has changed…
+I: Building resources…
+I: Building apk file…
+
+用Auto-sign签名E:\AMM\dist\out.apk 安装

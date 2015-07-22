@@ -1,0 +1,4 @@
+->cmd
+
+->
+d2j-dex2jar.bat  classes.dex
