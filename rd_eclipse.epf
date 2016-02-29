@@ -1,36 +1,44 @@
-#Sun Feb 28 17:23:05 CST 2016
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
-/instance/org.eclipse.jdt.ui/formatter_settings_version=12
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+#Mon Feb 29 14:40:42 CST 2016
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ignorelowercasenames=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
-\!/=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1445846583238" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1445846583238" name\="jre1.8.0_60" path\="C\:\\Program Files\\Java\\jre1.8.0_60"/>\r\n</vmType>\r\n</vmSettings>\r\n
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
-/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rdtd.lib/location=https\://192.168.1.232/svn/lexiu/trunk/com.rdtd.lib
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldPrefixes=
 /instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rd.kxp/location=https\://192.168.1.232/svn/lexiu/trunk/com.rd.kxp
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.importorder=java;javax;org;com;
+file_export_version=3.0
+/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rd.lexiu/location=https\://192.168.1.232/svn/lexiu/trunk/com.rd.lexiu
+/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rdtd.lib/location=https\://192.168.1.232/svn/lexiu/trunk/com.rdtd.lib
+/instance/org.eclipse.jdt.ui/formatter_settings_version=12
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.overrideannotation=true
+/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rd.kx.common/location=https\://192.168.1.232/svn/lexiu/trunk/com.rd.kx.common
 @org.eclipse.jdt.ui=3.8.2.v20130107-165834
-/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
-@org.eclipse.cdt.ui=5.3.2.201202111925
-/instance/org.eclipse.jdt.ui/formatter_profile=org.eclipse.jdt.ui.default.sun_profile
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
-/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
-@org.tigris.subversion.subclipse.core=1.10.10
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
+/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rd.xpk%com.rd.xpk.sdkdemo/location=https\://192.168.1.232/svn/lexiu/trunk/com.rd.xpk/com.rd.xpk.sdkdemo
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.exception.name=e
+@org.eclipse.jdt.launching=3.6.101.v20130111-183046
 /instance/org.tigris.subversion.subclipse.core/repositories/http%%%code.taobao.org%svn%testdpi%trunk/location=http\://code.taobao.org/svn/testdpi/trunk
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
-file_export_version=3.0
-@org.eclipse.jdt.launching=3.6.101.v20130111-183046
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
 @org.eclipse.jdt.core=3.8.3.v20130121-145325
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+@org.eclipse.cdt.ui=5.3.2.201202111925
+@org.tigris.subversion.subclipse.core=1.10.10
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1445846583238" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1445846583238" name\="jre1.8.0_60" path\="C\:\\Program Files\\Java\\jre1.8.0_60"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
+\!/=
+/instance/org.eclipse.jdt.ui/formatter_profile=org.eclipse.jdt.ui.default.sun_profile
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFinalFieldPrefixes=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.gettersetter.use.is=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
+/instance/org.tigris.subversion.subclipse.core/repositories/https%%%192.168.1.232%svn%lexiu%trunk%com.rd.xpk%com.rd.xpk.sdk/location=https\://192.168.1.232/svn/lexiu/trunk/com.rd.xpk/com.rd.xpk.sdk
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ondemandthreshold=99
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localPrefixes=
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.staticondemandthreshold=99
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
