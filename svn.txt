@@ -1,0 +1,33 @@
+xpksdk: https://192.168.1.232/svn/lexiu/trunk/com.rd.xpk/com.rd.xpk.sdkdemo
+        https://192.168.1.232/svn/lexiu/trunk/com.rd.xpk/com.rd.xpk.sdk
+
+百度统计: 56show@vip.sina.com（19780910lubo）
+       http://mtj.baidu.com/web/welcome/login
+
+
+lib:  https://192.168.1.232/svn/lexiu/trunk/com.rdtd.lib
+
+快秀: https://192.168.1.232/svn/lexiu/trunk/com.rd.kxp
+
+xpk: https://192.168.1.232/svn/lexiu/trunk/com.rd.lexiu
+     https://192.168.1.232/svn/lexiu/trunk/com.rd.kx.common
+
+录制视频：adb shell screenrecord --size 1280*720 /sdcard/demo.mp4
+
+git:guojian0822jian j752757914
+gmail:        j752757914  
+Microsoft：  j752757914 
+
+
+jni 调试： 
+E:\studio_space\RdPlayer>D:\Android\studio_sdk\ndk-bundle\ndk-stack -sym E:\studio_space\RdPlayer\app\build\intermediates\binaries\debug\arm7\obj -dump app\log.txt
+
+
+插件化：
+D:\Android\sdk\build-tools\android-4.4W>dx --dex --output=rdqzone.jar qzoneimp.jar
+
+S5:7nyybhxdwdmm
+
+
+ 
+ 
