@@ -1,3 +1,4 @@
 sty:  	Jian752757914  主机： ubuntu Jian123456
 
 aly:  windows  pwd：384292  login:Jian752757914
+txy :  主机： root Jian123456
